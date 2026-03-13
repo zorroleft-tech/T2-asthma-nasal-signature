@@ -1,4 +1,4 @@
-# Biomarker-Anchored Validation of a Locked Nasal Immune Signature
+# Biomarker-Anchored Validation of a Locked Nasal Immune Signature https://doi.org/10.5281/zenodo.19004547
 
 ## Project Overview
 This repository contains the complete analytical R scripts, auditable run-all pipeline, and intermediate matrices supporting our manuscript submitted to the ***Journal of Translational Medicine***.

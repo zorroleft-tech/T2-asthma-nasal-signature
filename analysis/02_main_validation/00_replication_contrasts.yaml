@@ -1,0 +1,103 @@
+GSE103166:
+  tissue_group: Airway
+  is_anchor: false
+  expr_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE103166_diet_expr.rds
+  meta_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE103166_pheno.rds
+  group_col: std_group_label
+  case_levels: Asthma
+  control_levels: Healthy
+  exclude_levels: []
+  compartment: ~
+  paired: no
+  rule_standardize_hit: Rule_AllAsthma_vs_HealthyCtrl
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE103166_expr_z.rds
+GSE115770:
+  tissue_group: Blood
+  is_anchor: false
+  expr_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE115770_diet_expr.rds
+  meta_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE115770_pheno.rds
+  group_col: std_group_label
+  case_levels: Severe Asthma
+  control_levels: Healthy
+  exclude_levels: []
+  compartment: ~
+  paired: no
+  rule_standardize_hit: Rule_SevereAsthma_vs_HealthyCtrl
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE115770_expr_z.rds
+GSE118761:
+  tissue_group: Airway
+  is_anchor: false
+  expr_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE118761_diet_expr.rds
+  meta_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE118761_pheno.rds
+  group_col: std_group_label
+  case_levels: Asthma
+  control_levels: Healthy
+  exclude_levels: []
+  compartment: ~
+  paired: yes
+  rule_standardize_hit: Rule_AllAsthma_vs_HealthyCtrl
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE118761_expr_z.rds
+GSE123750:
+  tissue_group: Nasal
+  is_anchor: false
+  expr_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE123750_diet_expr.rds
+  meta_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE123750_pheno.rds
+  group_col: std_group_label
+  case_levels: Asthma
+  control_levels: Healthy
+  exclude_levels: []
+  compartment: ~
+  paired: no
+  rule_standardize_hit: Rule_AllAsthma_vs_HealthyCtrl
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE123750_expr_z.rds
+GSE230048:
+  tissue_group: Blood
+  is_anchor: false
+  expr_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE230048_diet_expr.rds
+  meta_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE230048_pheno_blood.rds
+  group_col: std_group_label
+  case_levels: Asthma
+  control_levels: Healthy
+  exclude_levels: []
+  compartment: blood
+  paired: no
+  rule_standardize_hit: Rule_AllAsthma_vs_HealthyCtrl
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE230048_expr_z.rds
+GSE40888:
+  tissue_group: Blood
+  is_anchor: false
+  expr_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE40888_diet_expr.rds
+  meta_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE40888_pheno.rds
+  group_col: std_group_label
+  case_levels: Atopic wheeze
+  control_levels: Healthy non-wheeze
+  exclude_levels: []
+  compartment: ~
+  paired: no
+  rule_standardize_hit: Rule_4Group_WheezeAtopy_Fold
+  deg_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE40888_deg_case_control.csv
+  deg_type: probe_level_csv
+  probe_gene_map_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE40888_probe_gene_map.csv
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE40888_expr_z.rds
+GSE43696:
+  tissue_group: Airway
+  is_anchor: false
+  expr_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE43696_diet_expr.rds
+  meta_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed_diet/GSE43696_pheno.rds
+  group_col: std_group_label
+  case_levels: Asthma
+  control_levels: Healthy
+  exclude_levels: []
+  compartment: ~
+  paired: no
+  rule_standardize_hit: Rule_AllAsthma_vs_HealthyCtrl
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE43696_expr_z.rds
+GSE152004:
+  tissue_group: Nasal
+  is_anchor: false
+  deg_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE152004_deg_case_control.csv
+  deg_type: gene_level_csv
+  expr_z_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/GSE152004_expr_z.rds
+
+# Global paths
+minimal_stats_report_path: D:/R/T2_Signature_Project/asthma11gene_allergy/data/processed/phase3_outputs/minimal_stats_report.csv

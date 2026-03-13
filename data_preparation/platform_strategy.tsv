@@ -1,0 +1,5 @@
+gpl	strategy	key	symbol_col	notes
+GPL11154	HTS_COUNTS	(none)	(from id conversion)	series_matrix empty
+GPL16791	HTS_COUNTS	(none)	(from id conversion)	counts file csv
+GPL23961	GPL_TABLE_SPOTID	SPOT_ID	ORF	expr is Entrez_at
+GPL14550	GPL_TABLE	ID	Gene Symbol	Illumina HumanHT-12 V4.0 expression beadchip

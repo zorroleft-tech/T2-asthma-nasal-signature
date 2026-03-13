@@ -1,0 +1,4 @@
+gse	strategy	notes
+gse152004	GENE_LEVEL_SYMBOL	Already gene-level symbol data from expr_norm
+gse201955	GENE_LEVEL_SYMBOL	Already gene-level symbol data
+gse230048	MSTRG_SYMBOL_EXTRACTION	Extract symbols from MSTRG|SYMBOL format, discard rate threshold applied

@@ -1,0 +1,32 @@
+
+=== 00c: Start pheno extraction for anchor cohorts ===
+Time: 2026-02-26 23:00:28.933415
+
+--------------------------------------
+Processing: GSE65204
+错误: [GSE65204] No pheno source found in data/raw. Update pheno_source_pattern or add metadata file.
+停止执行
+
+=== 00c: Start pheno extraction for anchor cohorts ===
+Time: 2026-02-26 23:00:45.930018
+
+--------------------------------------
+Processing: GSE65204
+错误: [GSE65204] No pheno source found in data/raw. Update pheno_source_pattern or add metadata file.
+停止执行
+
+=== 00c: Start pheno extraction for anchor cohorts ===
+Time: 2026-02-26 23:01:33.23363
+
+--------------------------------------
+Processing: GSE65204
+错误: [GSE65204] No pheno source found in data/raw. Update pheno_source_pattern or add metadata file.
+停止执行
+
+=== 00c: Start pheno extraction for anchor cohorts ===
+Time: 2026-02-26 23:01:42.29755
+
+--------------------------------------
+Processing: GSE65204
+错误: [GSE65204] No pheno source found in data/raw. Update pheno_source_pattern or add metadata file.
+停止执行
